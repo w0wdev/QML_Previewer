@@ -18,16 +18,3 @@
 Below is an simple example of the **QML Previewer** in action:
 
 ![QML Previewer Screenshot](./example.png)
-
----
-
-## Installation
-
-### Prerequisites
-To build and run this project, you will need:
-
-- Qt (preferably version 5.15 or above)
-- C++ compiler (GCC, MSVC, or Clang)
-- Qt Creator (optional but recommended for development)
-
-### Steps
